@@ -1,0 +1,13 @@
+1.	Start.
+2.	Read the number of emergency stations and road connections.
+3.	Represent each station as a vertex and each road connection as an edge using an adjacency list.
+4.	Read the selected source station.
+5.	Initialize all stations as unvisited.
+6.	Insert the source station into a queue and mark it as visited.
+7.	Remove a station from the queue and display it.
+8.	Visit all its unvisited neighbouring stations, mark them as visited, and insert them into the queue.
+9.	Repeat Steps 7–8 until the queue becomes empty.
+10.	Display the BFS traversal order.
+11.	Check all stations and list those that remain unvisited as unreachable stations.
+12.	Stop.
+
