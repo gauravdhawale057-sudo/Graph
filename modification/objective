@@ -1,0 +1,7 @@
+2. Objective
+•	To represent emergency stations and road connections using a graph.
+•	To implement Breadth First Search (BFS) using a queue.
+•	To accept a user-selected starting vertex.
+•	To display the BFS traversal order.
+•	To identify reachable and unreachable vertices.
+•	To count reachable vertices and calculate their BFS levels.
